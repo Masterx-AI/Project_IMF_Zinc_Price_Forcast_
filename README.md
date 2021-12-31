@@ -5,7 +5,7 @@
 ### Description:
 
 A simple yet challenging project, to forecast the IMF commodity price of Zinc, based on monthly totals zinc price recorded from 1980 to 2016.
-Can you overcome these obstacles & Forecast the it's future prices?
+Can you overcome these obstacles & Forecast the its future prices?
 
 **This data frame contains the following columns:**
 
